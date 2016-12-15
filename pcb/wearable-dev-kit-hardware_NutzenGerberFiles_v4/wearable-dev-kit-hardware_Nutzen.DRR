@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: wearable-dev-kit-hardware_Nutzen.PcbDoc   08.06.2016  15:37:52
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : wearable-dev-kit-hardware_Nutzen.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             456       PTH        57.57inch (1462.23mm)
+T2      13mil (0.33mm)                                            Round             96        PTH        12.17inch (309.20mm)
+T3      20mil (0.51mm)                                            Round             18        PTH        8.79inch (223.25mm)
+T4      20mil (0.5mm)                                             Round             60        NPTH       8.85inch (224.90mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              630
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,50 @@
+=====================================================================
+Daten Leiterplatte
+=====================================================================
+
+Leiterplatte:               2212319
+Abmessungen:                142mm x 90mm
+Basismaterial:              FR4 / 1.6mm
+Kupferauflage:              35um
+Lagen:                      4 Top & Bottom
+Leiterbahnbreite:           >=0.2mm
+Kleinster Bohrdurchmesser:  0.3mm
+Anzahl Bohrdurchmesser:     4
+Anzahl Bohrungen:           630
+Oberfläche:                 chem. Ni/Au
+Zusatzdrucke:               Lötstopplack beidseitig (Top & Bottom)
+Bestückungsdruck:           1x top
+UL Approval:                Nein
+Prüfung:                    Elektrisch
+
+Anzahl:                     
+Termin:                     
+
+=====================================================================
+Filedefinition Gerberdaten
+=====================================================================
+
+*.GM5  Rand = Border
+*.GM4  Fraesen
+
+*.GTL Kupfer oben (TopLayer)
+*.GTS Stopplack oben (TopSolder)
+*.GTO Bestückungsdruck oben (TopOverlay)
+*.G1  Midlayer 1
+*.G2  Midlayer 2
+*.GBL Kupfer unten (BottomLayer)
+*.GBS Stopplack unten (BottomSolder)
+
+
+*.DRR Bohrdatei (NCDrill File Report)
+*.TXT Bohrdatei (NCDrill ASCII File)
+
+
+
+
+Layer Stack:
+
+GTL
+G1
+G2
+GBL
