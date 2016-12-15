@@ -1,0 +1,60 @@
+Copyright (c) 2016, Sensirion AG – http://www.sensirion.com/
+   
+All rights reserved.
+   
+Agreement
+   
+Definition: The design information in the documents and files made available
+to you is called "Documentation" and things created from it are called
+"Product(s)".
+   
+Acceptance: By (i) using, copying, modifying, or distributing the
+Documentation, or (ii) making or having Products made or distributing them,
+you accept this Agreement and agree to comply with its terms.
+   
+Terms and Conditions:
+   
+Redistribution, using and copying of the Documentation, in whole
+or in part, alone or in combination, with or without modification, are
+permitted provided that the following conditions are met:
+   
+* Redistributions of the Documentation must retain the above copyright
+notice, the definition, the acceptance, this list of conditions and the
+DISCLAIMER.
+   
+* You may make, have made, and distribute Products based in whole or in part
+on the Documentation. You acknowledge that neither the design nor the Product
+is tested for your use. You are solely responsible for the application and
+any use of the Product. You must ascertain the Documentation’s and
+Product’s specific suitability for your intended purpose and that your use of
+the Products does not infringe third parties’ rights or other legal and
+regulatory requirements.
+   
+* Products based on the Documentation must reproduce the above copyright
+notice, the definition, the acceptance, this list of conditions and the
+DISCLAIMER in the documentation and/or other materials provided with the
+Products.
+   
+* Neither the name of Sensirion AG nor the names of its contributors may be
+used to endorse or promote products derived from the Documentation without
+specific prior written permission.
+     
+DISCLAIMER:
+   
+DOCUMENTATION IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+OF THE DOCUMENTATION AND THE PRODUCTS, ARE DISCLAIMED. EXCEPT FOR WILLFUL
+ACTS AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES, CLAIMS OF INTELLECTUAL PROPERTY INFRINGEMENT,
+OR LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION, OR HARMFUL
+EFFECTS TO PEOPLE, OBJECTS, ANIMALS, OR PHYSICAL ENTITIES, HOWEVER CAUSED
+AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THE DOCUMENTATION AND/OR THE PRODUCTS, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE. YOU AGREE TO DEFEND, INDEMNIFY, AND HOLD EACH
+COPYRIGHT HOLDER AND CONTRIBUTOR HARMLESS FROM ANY CLAIM BROUGHT BY A THIRD
+PARTY ALLEGING ANY DEFECT IN THE DESIGN, MANUFACTURE, OR OPERATION OF ANY
+PRODUCT WHICH YOU MAKE, HAVE MADE, OR DISTRIBUTE PURSUANT TO THIS AGREEMENT.
